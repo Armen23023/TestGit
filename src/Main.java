@@ -1,5 +1,4 @@
 import BoobleSort.BoobleSort;
-
 public class Main {
     public static void main(String[] args) {
         int arr[]={10,2,44,2,-1,55,34};
@@ -8,6 +7,5 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(" " + arr[i]);
         }
-
     }
 }
